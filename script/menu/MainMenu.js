@@ -13,7 +13,7 @@ function generateMainMenuLabels(headerText){
             "100px"
         ),
         new Label(
-           "©2019 Abduraheem Mohamud",
+           "©2019 Abdurahiem Mohamud",
             new Vector2(1250,700),
             Vector2.zero,
             "white",
